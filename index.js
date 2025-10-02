@@ -1,3 +1,4 @@
+// Updated: 2025-10-02
 /**
  * Main application entry point.
  */
