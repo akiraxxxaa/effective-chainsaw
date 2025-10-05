@@ -1,3 +1,4 @@
+// Fixed: Issue 7
 // feature_5
 function feature_5() {
     // Implementation
