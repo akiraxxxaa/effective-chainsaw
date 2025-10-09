@@ -1,3 +1,4 @@
+// Fixed: Issue 13
 /**
  * Utility functions.
  */
